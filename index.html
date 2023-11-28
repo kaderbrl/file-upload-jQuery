@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined">
+    <link rel="stylesheet" href="fileUpload/fileUpload.css">
+    <link rel="stylesheet" href="style.css">
+    <title>File Upload | jQuery</title>
+</head>
+
+<body>
+    
+    <div class="parent-div">
+        <h2>File Upload | jQuery</h2>
+        <div id="fileUpload"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="fileUpload/fileUpload.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#fileUpload").fileUpload();
+        });
+    </script>
+
+</body>
+
+</html>
