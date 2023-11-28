@@ -32,6 +32,10 @@ $(document).ready(function () {
 });
 ```
 
+## 💻 Live Demo
+
+Check the live demo here 👉 [Demo](https://kaderbrl.github.io/file-upload-jQuery/) 
+
 ## Languages and Tools
 
 <div align="left">
