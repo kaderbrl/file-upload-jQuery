@@ -12,6 +12,10 @@
   <li>🗑 Uploaded files can be deleted</li>
 </ul>
 
+## 💻 Live Demo
+
+Check the live demo here 👉 [Demo](https://file-upload-kaderbrl.vercel.app/) 
+
 ## 📋 Instruction
 
 Clone this repository.
@@ -31,10 +35,6 @@ $(document).ready(function () {
     $("#fileUpload").fileUpload();
 });
 ```
-
-## 💻 Live Demo
-
-Check the live demo here 👉 [Demo](https://kaderbrl.github.io/file-upload-jQuery/) 
 
 ## Languages and Tools
 
